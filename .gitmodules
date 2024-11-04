@@ -1,3 +1,6 @@
 [submodule "llama.cpp"]
 	path = llama.cpp
 	url = git@github.com:ggerganov/llama.cpp.git
+[submodule "chatdbg"]
+	path = chatdbg
+	url = git@github.com:ivhacks/ChatDBG.git
