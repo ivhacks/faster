@@ -164,3 +164,4 @@ cython_debug/
 # big fat chonmky models 
 # (they'll be downloaded on demand or you can handle them yourself)
 *.gguf
+*.txt
